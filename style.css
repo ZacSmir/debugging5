@@ -1,3 +1,8 @@
 #title {
   color: red
 }
+
+#padding {
+  border: red;
+  padding: inherit;
+}
