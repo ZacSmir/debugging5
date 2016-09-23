@@ -1,8 +1,11 @@
 #title {
-  color: red
+  background: blue;
+  color: white;
 }
 
 #padding {
   border: red;
-  padding: inherit;
+  padding: 70px;
 }
+
+#borderredux
