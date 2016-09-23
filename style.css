@@ -1,6 +1,7 @@
 #title {
   background: blue;
   color: white;
+  align-c
 }
 
 #padding {
@@ -8,7 +9,7 @@
   padding: 70px;
 }
 
-#borderredux {
+#borderradius {
   border-radius: 8px;
   border-color: red;
 
