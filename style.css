@@ -8,4 +8,8 @@
   padding: 70px;
 }
 
-#borderredux
+#borderredux {
+  border-radius: 8px;
+  border-color: red;
+
+}
