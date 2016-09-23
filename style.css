@@ -12,9 +12,9 @@
 }
 
 #borderradius {
-  border-style: double;
-  border-width: 10px;
+  border: 50px dashed pink;
   border-radius: 50px;
-  border-color: red;
+
+
 
 }
